@@ -38,6 +38,10 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
+![OUTPUT](./productcompanywebsitev/images/pic1.png)
+![OUTPUT](./productcompanywebsitev/images/pic2.png)
+![OUTPUT](./productcompanywebsitev/images/pic3.png)
+![OUTPUT](./productcompanywebsitev/images/pic4.png)
 
 ### Home Page:
 
