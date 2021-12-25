@@ -36,11 +36,15 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 
+
 ## OUTPUT:
 
 ### Home Page:
 
-![output](./images/homepage.jpg)
+![output](./images/pic1.png)
+![output](./images/pic2.png)
+![output](./images/pic3.png)
+![output](./images/pic4.png)
 
 ## Result:
 
