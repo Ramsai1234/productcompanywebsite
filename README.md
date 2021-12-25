@@ -41,11 +41,6 @@ Publish the website in the given URL.
 
 ### Home Page:
 
-![output](./images/pic1.png)
-![output](./images/pic2.png)
-![output](./images/pic3.png)
-![output](./images/pic4.png)
-
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
